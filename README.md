@@ -11,15 +11,3 @@
 <img align="left" alt="Redux.js" width="32px" src="https://img.icons8.com/color/48/000000/redux.png" />
 <img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-
-<br/>
-<br/>
-
-### Languages/Frameworks I want to learn in the future:
-
-<img align="left" alt="TypeScript" width="32px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
-<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="GraphQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"/>
-<img align="left" alt="Sass" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"/>
-<img align="left" alt="Chakra UI" width="32px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4"/>
-<img align="left" alt="Next.js" width="32px" src="https://docs.microsoft.com/en-us/windows/images/nextjs-logo.png"/>
