@@ -1,5 +1,4 @@
-### Languages and Tools:
-
+## Languages and Tools:
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" />
@@ -12,3 +11,9 @@
 <img align="left" alt="Redux.js" width="32px" src="https://img.icons8.com/color/48/000000/redux.png" />
 <img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+
+<br />
+<br />
+
+## 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ckpx3ovor6fpjeh4nqucili&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/Insigne/)
