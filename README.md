@@ -11,6 +11,7 @@
 <img align="left" alt="Nuxt.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" />
 <img align="left" alt="React.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux.js" width="32px" src="https://img.icons8.com/color/48/000000/redux.png" />
+<img align="left" alt="Docker" width="32px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 <img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
